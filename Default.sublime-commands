@@ -1,0 +1,13 @@
+[
+  {
+    "caption": "iTunes: Next"
+    , "command": "itunes_next"
+  },{
+    "caption": "iTunes: Previous"
+    , "command": "itunes_previous"
+  },{
+    "caption": "iTunes: Pause"
+    , "command": "itunes_pause"
+  }
+
+]
